@@ -34,7 +34,6 @@
 - **Emotion Classification**: The model classifies emotions from audio recordings into categories such as happy, sad, angry, etc.
 - **Model Checkpointing**: The best-performing model based on validation accuracy is saved during training.
 - **Early Stopping**: Training is halted if the model's performance does not improve on the validation set for a specified number of epochs.
-- **Model Evaluation**: Evaluate the model's performance on a test set and provide metrics such as accuracy, precision, recall, and F1-score.
 
 ## Installation
 
