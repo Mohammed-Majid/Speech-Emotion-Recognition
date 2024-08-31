@@ -59,7 +59,7 @@ To set up and run this project locally, follow these steps:
 
 5. **Run the training script**:
     ```bash
-    python model.py
+    python model.ipynb
     ```
 
 ## Usage
@@ -68,7 +68,7 @@ To set up and run this project locally, follow these steps:
     - Extract MFCC features from audio files using the provided preprocessing script.
 
 2. **Training the Model**:
-    - The model is trained using the `model.py` script.
+    - The model is trained using the `model.ipynb` script.
     - Checkpoints are saved as `best_model.keras` in the project directory.
 
 3. **Evaluating the Model**:
